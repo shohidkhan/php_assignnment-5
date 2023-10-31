@@ -1,0 +1,23 @@
+{
+    "1": {
+        "id": 2,
+        "username": "Shohid khan",
+        "email": "admin@gmail.com",
+        "role": "admin",
+        "password": "$2y$10$aDkZJ1BVF8zNAL.02xGdWeC3bCI22fhxiC0RHFlGvnomsxyH9or36"
+    },
+    "8": {
+        "id": 9,
+        "username": "manager",
+        "email": "manager@gmail.com",
+        "role": "manager",
+        "password": "$2y$10$MB1eiSTEvygFZov6qWNZi.55N20o3QfeIJUKTCCFRoa2mnYwn56WS"
+    },
+    "9": {
+        "id": 10,
+        "username": "user",
+        "email": "user@gmail.com",
+        "role": "user",
+        "password": "$2y$10$xSWiUr76VmSafSV8.\/Qxv.UBrQrzzpAovk0LvNtDfcnblJNrv8FGG"
+    }
+}
